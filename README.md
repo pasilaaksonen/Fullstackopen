@@ -1,1 +1,1 @@
-Fullstackopen parts will be gathered here.
+Code answers for fullstackopen exercises: https://fullstackopen.com/en/
